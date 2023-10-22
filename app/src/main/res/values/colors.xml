@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="oren">#CD5C08</color>
+    <color name="kuning">#F5E8B7</color>
 </resources>
